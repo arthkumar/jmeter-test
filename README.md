@@ -1,6 +1,6 @@
 # jmeter-test
 
-Test Scripts for running jmeter peroformance test using maven plugin.
+Test Scripts for running jmeter performance test using maven plugin.
 
 Cmd to run the test-
 
